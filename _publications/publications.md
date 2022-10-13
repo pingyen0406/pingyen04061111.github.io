@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/
+permalink: /
 ---
 
 Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection (accepted, [arxiv](https://arxiv.org/abs/2205.10537))  
