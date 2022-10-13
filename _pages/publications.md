@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://arxiv.org/abs/2205.10537))  
+[Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://arxiv.org/abs/2205.10537)  
 Ping-Yen Hsieh, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
 Nanophotonics (accepted, 2022)  
 
