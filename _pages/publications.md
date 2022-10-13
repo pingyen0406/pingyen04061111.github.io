@@ -5,17 +5,17 @@ author_profile: true
 ---
 
 [Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://arxiv.org/abs/2205.10537)  
-Ping-Yen Hsieh, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
+**Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
 Nanophotonics (accepted, 2022)  
 
 [Metasurfaces on Silicon Photonics for Simultaneous Emission Amplitude and Phase Control](https://doi.org/10.1364/CLEO_QELS.2022.FF2D.8)  
-Yu-Siang Lin, Ping-Yen Hsieh, Shun-Lin Fang, and You-Chia Chang  
+Yu-Siang Lin, **Ping-Yen Hsieh**, Shun-Lin Fang, and You-Chia Chang  
 CLEO, paper FF2D.8. (2022)  
 
 [Shaping Free-space Emission with Monolithically Integrated Metalenses on Silicon Photonic Waveguides](https://doi.org/10.1364/CLEO_SI.2022.SM4P.7)  
-Ping-Yen Hsieh, Yu-Siang Lin, Shun-Lin Fang, and You-Chia Chang  
+**Ping-Yen Hsieh**, Yu-Siang Lin, Shun-Lin Fang, and You-Chia Chang  
 CLEO, paper SM4P.7. (2022)  
 
 [Metasurface on silicon photonics for beam steering and focusing](https://doi.org/10.1364/OECC.2021.S4D.2)  
-Ping-Yen Hsieh, Yi Zhao, Chung-Yu Hsu, Min Chul Shin, Christopher T. Phare, Steven A. Miller, Euijae Shim, Michal Lipson, and You-Chia Chang  
+**Ping-Yen Hsieh**, Yi Zhao, Chung-Yu Hsu, Min Chul Shin, Christopher T. Phare, Steven A. Miller, Euijae Shim, Michal Lipson, and You-Chia Chang  
 OECC, paper S4D.2. (2021)  
