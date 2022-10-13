@@ -209,7 +209,6 @@ defaults:
       type: pages
     values:
       layout: single
-      classed: wide
       author_profile: true
   # _teaching
   - scope:
