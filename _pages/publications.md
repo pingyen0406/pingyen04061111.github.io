@@ -6,7 +6,7 @@ author_profile: true
 
 [Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://doi.org/10.1515/nanoph-2022-0344)  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
-Nanophotonics (2022)  
+Nanophotonics 11(21), 4687-4695. (2022)  
 
 [Metasurfaces on Silicon Photonics for Simultaneous Emission Amplitude and Phase Control](https://doi.org/10.1364/CLEO_QELS.2022.FF2D.8)  
 Yu-Siang Lin, **Ping-Yen Hsieh**, Shun-Lin Fang, and You-Chia Chang  
