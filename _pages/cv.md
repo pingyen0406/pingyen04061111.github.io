@@ -21,3 +21,7 @@ Work experience
 * Sep 2020 - Aug 2021: Research Assistant
   * National Chiao Tung University
   * Supervisor: You-Chia Chang
+
+Honors
+------
+* Best Student Oral Paper Award at OPTIC 2022, Taiwan
