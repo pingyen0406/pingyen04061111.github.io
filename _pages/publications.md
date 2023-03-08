@@ -3,7 +3,7 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control
+Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang
 *under review* (2023)
 
