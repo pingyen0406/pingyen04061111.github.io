@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control  
-**Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang
+**Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
 *under review* (2023)
 
 [Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://doi.org/10.1515/nanoph-2022-0344)  
