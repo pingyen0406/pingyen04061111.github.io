@@ -24,4 +24,5 @@ Work experience
 
 Honors
 ------
+* Best Student Research Award, National Yang Ming Chiao Tung University, 2022
 * Best Student Oral Paper Award at OPTIC 2022, Taiwan
