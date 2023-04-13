@@ -25,4 +25,5 @@ Work experience
 Honors
 ------
 * Best Student Research Award, National Yang Ming Chiao Tung University, 2022
-* Best Student Oral Paper Award at OPTIC 2022, Taiwan
+* Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
+* Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2016
