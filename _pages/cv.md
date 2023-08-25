@@ -22,7 +22,7 @@ Work experience
   * National Chiao Tung University
   * Supervisor: You-Chia Chang
 
-Honors
+Honors & Awards
 ------
 * Best Student Research Award, National Yang Ming Chiao Tung University, 2022
 * Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
